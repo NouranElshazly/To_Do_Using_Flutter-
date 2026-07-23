@@ -21,6 +21,9 @@ A simple to-do list app built with Flutter.
 | Home                             | Add Task                         | Validation                         |
 | -------------------------------- | -------------------------        | -------------------------          |
 | ![Splash](screenshot/home.png)   | ![Auth](screenshot/add_task.png) | ![Home](screenshot/validation.png) |
+| Empty                            |
+| -------------------------------- |
+| ![Splash](screenshot/Empty.png)  |
 
 ## Getting Started
 
